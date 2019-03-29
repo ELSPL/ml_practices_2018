@@ -17,6 +17,7 @@
 
 * Second Order Optimization
   1. Newton's methods for Logistic Regression
+  2. Parameter estimation - expectaion maximization, Maximum Likelihood Estimation(MLE) and Maximum A Posteriori(MAP)
   
 * Clustering
   1. Gaussian Mixture Models(GMM)
