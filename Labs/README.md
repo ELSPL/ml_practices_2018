@@ -6,5 +6,12 @@
 * Git - Git and Github basics, integration in workflow, contribution, participation
 
 ## Lab 1 - Exploratory Data Analysis (EDA)
+* Handling data : Numpy, Pandas
+* Data Transformation
+* Visualization : Matplotlib, Seaborn, Yellowbrick
 
 ## Lab 2 - Exploring methods using Sklearn
+* First order Optimization
+* Second Order Optimization
+* Clustering
+* Tree based Methods
