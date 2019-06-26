@@ -14,6 +14,8 @@
 <!--- 6. No opinions, editorials -->
 
 # ml_practices_2018
+[<img src="https://img.shields.io/badge/slack-@elsplworkspace-yellow.svg?logo=slack">](https://elsplworkspace.slack.com/messages/CF28SJ8PM/)
+
 This is study group for ml engineers to practice state of the art practices in machine learning.
 
 ### Table of Contents
@@ -36,7 +38,7 @@ Need help? Found an issue? Have a feature request? Checkout our [support page](h
 - Lab related material: https://github.com/ELSPL/ml_practices_2018/tree/master/Docs
 - Wiki: https://github.com/ELSPL/ml_practices_2018/wiki
 - Issue tracker: https://github.com/ELSPL/ml_practices_2018/issues
-- Gitter chat room: https://gitter.im/ml_practices_2018/Lobby
+- Slack chat room: https://elsplworkspace.slack.com/messages/CF28SJ8PM/
 
 ## Code of Conduct
 We want everyone to feel welcome to contribute to our study group and participate in discussions. In that
