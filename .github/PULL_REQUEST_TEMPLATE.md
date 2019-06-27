@@ -1,14 +1,13 @@
 ## Types of changes
 <!--- Put an `x` in all the boxes that apply: -->
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
+- [ ] feat: New feature (non-breaking change which adds functionality)
+- [ ] fix: Bug Fix (non-breaking change which fixes an issue)
+- [ ] docs: My change requires a change to the documentation.
+- [ ] style: formatting, missing semi colons, etc; no code change
+- [ ] refactor: refactoring production code
+- [ ] test: adding tests, refactoring test; no production code change
+- [ ] chore: updating build tasks, package manager configs, etc; no production code change
 - [ ] I have read the **CONTRIBUTING** document.
-- [ ] My code follows the code style of this project.
-- [ ] My change requires a change to the documentation.
-- [ ] I have updated the documentation accordingly.
-- [ ] I have added tests to cover my changes.
-- [ ] All new and existing tests passed.
 
 ## Description
 <!--- Describe your changes in detail -->
@@ -19,14 +18,7 @@
 <!--- If suggesting a new feature or change, please discuss it in an issue first -->
 <!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
 <!--- Please link to the issue here: -->
-
-## Motivation and Context
-<!--- Why is this change required? What problem does it solve? -->
-<!--- If it fixes an open issue, please link to the issue here. -->
-
-## How Has This Been Tested?
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
+<!--- Resolves: #123 -->
+<!--- See also: #456, #789 -->
 
 ## Screenshots (if appropriate):

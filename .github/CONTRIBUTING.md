@@ -39,7 +39,7 @@ the errors and assumptions that seasoned contributors have glossed over.
 
 The goal is to maintain a diverse community that's pleasant for everyone. Please
 be considerate and respectful of others by following our 
-[code of conduct](). 
+[code of conduct](https://github.com/ELSPL/ml_practices_2018/blob/master/.github/CODE_OF_CONDUCT.md). 
 
 Other items:
 
@@ -56,7 +56,7 @@ Other items:
 ## Usage questions
 
 The best place to submit questions about how to get started or any query is via the
-[gitter](https://gitter.im/ml_practices_2018/Lobby) channel.
+[slack](https://elsplworkspace.slack.com/messages/CF28SJ8PM/) channel.
 Usage question in the issue tracker will probably go unanswered.
 
 ## Reporting issues
@@ -76,30 +76,7 @@ requesting something you think is missing.
 
 First of all, thanks for your interest in contributing!
 
-- If you are new to git/Github, please take check a few tutorials
-  on [git](https://git-scm.com/docs/gittutorial) and [GitHub](https://guides.github.com/).
-- The basic workflow for contributing is:
-  1. [Fork](https://help.github.com/articles/fork-a-repo/) the repository
-  2. [Clone](https://help.github.com/articles/cloning-a-repository/) the repository to create a local copy on your computer:
-    ```
-    git clone git@github.com:${user}/RoboticsStudyGroup.git
-    cd RoboticsStudyGroup
-    ```
-  3. Create a branch for your changes
-    ```
-    git checkout -b name-of-your-branch
-    ```
-  4. Make change to your local copy of the RoboticsStudyGroup repository
-  5. Commit those changes
-    ```
-    git add file1 file2 file3
-    git commit -m 'a descriptive commit message'
-    ```
-  6. Push your updated branch to your fork
-    ```
-    git push origin name-of-your-branch
-    ```
-  7. [Open a pull request](https://help.github.com/articles/creating-a-pull-request/) to the ELSPL/RoboticsStudyGroup
+Refer to [GIT_WORKFLOW.md](https://github.com/ELSPL/ml_practices_2018/blob/master/.github/GIT_WORKFLOW.md) for branching guide.
 
 ### Coding Style, Standards and Convention
 #### Python coding style
@@ -133,4 +110,4 @@ increase, we'll help you learn how to do this.
 ## More Questions?
 If you're stuck somewhere or are interested in being a part of the community in
 other ways, feel free to contact us:
-* [Gitter Channel](https://gitter.im/ml_practices_2018/Lobby)
+* [Slack Channel](https://elsplworkspace.slack.com/messages/CF28SJ8PM/)
